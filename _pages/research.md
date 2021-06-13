@@ -7,16 +7,13 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding patterns of rebel behavior before, during, and after civil conflict, and developing new tools to improve the study of peace and conflict. One strand of research explores how the territories that ethnic groups inhabit shape rebel group formation and condition their relationship with the state. This interest in rebel behavior also informs projects on the evolution of government repression and rebel killings of civilians over the course of a conflict.
+The aim of this research project is to significantly improve our understanding of the effects of non-linearities and rare events in economics and finance, by harnessing the power of Sequential Monte Carlo (SMC) methods. The project will address the limitations of current knowledge by focusing on the following research objectives.
 
-My other main research agenda uses advanced methods to allow us to ask new questions in the study of peace and conflict. One project uses Bayesian item response theory to measure the strength of peace agreements as a latent variable and free researchers from post-treatment bias caused by using the duration of agreements as a proxy for their strength. In another project, I use visual imagery contained in Salafi jihadist propaganda videos to detect similiarties in videos produced by different groups, allowing researchers to estimate collaboration networks within a broader clandestine movement. Other work uses over two billion observations of international trade data to develop new measures of economic interdependence and methods to detect disruptions of regular economic exchange between states.
+[Development of scalable SMC methodology for large dimensional problems](/research/scalable/)
+>In order to develop algorithms that can deal with the demanding large-scale systems we are interested in, we aim to advance Monte Carlo Methodology and investigate hybrid algorithms combining asymptotically exact Monte Carlo with faster but biased variational approximations. These algorithmic advances will be utilized in the applications in the other two workstreams. 
 
-<nbsp>
+[Application of SMC methods to structural models in economics and finance](/research/structural/)
+ >Rich structural models in economics and finance naturally give rise to non-linear solutions and latent state spaces, making it a natural but challenging application area for SMC methods. In this workstream, we apply SMC techniques to estimate models used in macro-finance, macro-economics and industrial organization. In addition to the speedups from algorithmic advances, we will use the particular model structure in each problem to design efficient algorithms. 
 
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+[Application of SMC methods to reduced form models in economics and finance](/research/reducedform/) 
+>State-of-the-art reduced form models incorporate complex dependencies, structural change and non-linearities to better fit complex economic and financial data, making empirical analysis challenging. Fortunately, SMC is well adapted to deal with the resulting high-dimensional non-linear estimation tasks. In this workstream, we use SMC methods to fit reduced form option pricing models, VAR models with sparse structural change and rich copula panel models. 

@@ -17,10 +17,12 @@ gallery:
 header:
   og_image: "software/spatial_weighting.png"
 ---
+Here is a list of some software that have been developed in the course of this research program. 
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+- R package [smcsamplers](https://github.com/pierrejacob/smcsamplers)
+- R package [UnbiasedScore](https://github.com/jeremyhengjm/UnbiasedScore)
 
-# BayesPostEst
+<!-- # BayesPostEst
 
 [![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
@@ -87,4 +89,4 @@ I also have a number of other software resources focused on making computation a
     - Some tweaking likely required to use at another institution or in the future
 - [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
 - [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
-- [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
+- [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations -->

@@ -25,7 +25,7 @@ Andras Niedermayer
 
 >Percentage fees are widely used by intermediaries such as auction houses, headhunters, and real-estate brokers. The simplicity of such fees is surprising given the elaborate forms of price discrimination observed in many markets. This project seeks to answer the question whether such simple fees can be approximately optimal for an example of intermediaries: real-estate brokers. For this purpose, we estimate the parameters of a structural industrial organization model. Due to the complexity of the model, we use Bayesian estimation implemented through Monte Carlo simulation. We then want to use these estimates to construct counterfactuals, such as how well percentage fees compare to non-linear fees and the effect of a regulation of real-estate brokerage fees.
 
-[Preprint](http://andras.niedermayer.ch/wp-content/uploads/2017/12/LNempirics-2017-12-09-main.pdf){: .btn--research}
+<!-- [Preprint](http://andras.niedermayer.ch/wp-content/uploads/2017/12/LNempirics-2017-12-09-main.pdf){: .btn--research} -->
 
 ## Detecting Collusion in Auctions 
 Andras Niedermayer

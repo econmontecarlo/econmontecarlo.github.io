@@ -14,7 +14,7 @@ Our research team is comprised of researchers working on SMC methodology and the
 * [Jeremy Heng](https://faculty.essec.edu/en/cv/en-heng-jeremy/)
 * [Jeroen Rombouts](https://faculty.essec.edu/en/cv/en-rombouts-jeroen/)
 
-## Cergy Paris Universit&eacute; Members
+## CY Cergy Paris Universit&eacute; Members
 * [Andr&eacute;as Heinen](https://thema.u-cergy.fr/membres/enseignants-chercheurs/heinen?lang=fr)
 * [Andras Niedermayer](https://thema.u-cergy.fr/membres/enseignants-chercheurs/niedermayer?lang=fr)
 

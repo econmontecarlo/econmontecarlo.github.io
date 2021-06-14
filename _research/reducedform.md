@@ -7,6 +7,13 @@ order_number: 20
 
 The following are some projects under this workstream. 
 
+## News-Based Indices on Country Fundamentals 
+Andras Fulop and Zalan Kocsis
+
+>We propose a novel method to extract textual information about macro fundamentals. The method has two pillars, a set of pre-defined regular expressions and a Bayesian feature selection model. We apply our technique on a 2007-2016 Reuters news corpus to create news indices on country fundamentals. Comparing our method with two popular alternatives in the literature, we find our method to better identify and discriminate among fundamentals based on both (i) observed economic surprises (macro announcements compared to Bloomberg survey expectations) and (ii) labels on a manually classified test sample. In an econometric application that investigates the fundamental content of asset prices in the sovereign credit risk arena, we show that including our news indices next to traditional macro variables significantly raises the explanatory power attributed to fundamentals. We also show that a large part of the covariance between the VIX index and sovereign spreads is related to global fundamentals captured by our indices.
+
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132278){: .btn--research}
+
 ## Estimation of Option Pricing Models Using large Option Panels 
 Andras Fulop and Jeroen Rombouts
 

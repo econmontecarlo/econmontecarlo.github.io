@@ -14,11 +14,17 @@ Andras Fulop, Jeremy Heng, Junye Li and Hening Liu
 
 [Article](https://doi.org/10.1016/j.jeconom.2020.12.008){: .btn--research}
 
+## Estimating and Testing Long-Run Risk Models: International Evidence
+Andras Fulop, Junye Li, Hening Liu and Cheng Yan
+
+>We estimate and test long-run risk models using international macroeconomic and financial data. The benchmark model features a representative agent who has recursive preferences with a time preference shock, a persistent component in expected consumption growth, and stochastic volatility in fundamentals characterized by an autoregressive Gamma process. We construct a comprehensive dataset with quarterly frequency in the post-war period for ten developed countries and employ an efficient likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to make full econometric inference. Our estimation provides international evidence in support of long-run risks, time-varying preference shocks, and countercyclicality of the stochastic discount factor.
+
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857366){: .btn--research}
+
 ## Bayesian estimation of non-linear dynamic stochastic general equilibrium models
 Andras Fulop, Jeremy Heng and Junye Li 
 
 >In the past decade, Bayesian approaches have become dominant in the estimation of DSGE models in macroeconomics (see e.g. [Herbst and Schorfheide (2015)](https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/) for a textbook treatment). Such models can easily have dozens of state variables, hence most existing work still resort to linearized models where solving the model boils down to a set of linear equations and the likelihood is available in closed form through Kalman filtering techniques, making Bayesian inference straightforward. The few papers in the literature estimating non-linear models (e.g. [Gust et al. (2018)](https://www.aeaweb.org/articles?id=10.1257/aer.20121437)) typically still need to fix some parameters and use a huge number of particles in order to stabilize the algorithm due to the use of inefficient proposals within the SMC algorithms used to estimate the likelihood. In this project, we explore the use of recent advances on optimal proposal generation [Heng et al. (2020)](https://doi.org/10.1214/19-AOS1914) to produce efficient estimates of the likelihood, opening the way to full-fledged Bayesian estimation of richer non-linear models. 
-
 
 ## Percentage Fees in Thin Markets: An Empirical Perspective 
 Andras Niedermayer
